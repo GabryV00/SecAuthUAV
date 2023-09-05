@@ -1,4 +1,4 @@
-# SecAuthUAV
+# SecAuthUAV - An Authentication protocol for UAVs
 In this repository there is a study of the SecAuthUAV [^fn3] protocol, a mutual authentication protocol for UAVs, proposed by Alladi, Naren, Bansal, Chamola and Guizani. 
 
 This study was done as a Computer Network Security seminar. The purpose of this work was to analyze the authentication protocols for the IoD (Internet of Drones) field proposed in the literature and investigate the best one.
